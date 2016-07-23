@@ -1,0 +1,13 @@
+{
+    "extends": "1.8.9-11.15.1.1722",
+    "files": [
+        {
+            "type": "mod",
+            "id": "buildcraft",
+            "name": "BuildCraft",
+            "description": "Automate your world with pipes, machines and power.",
+            "version": "7.2.7",
+            "download": "http://www.mod-buildcraft.com/releases/BuildCraft/7.2.7/buildcraft-7.2.7.jar"
+        }
+    ]
+}
